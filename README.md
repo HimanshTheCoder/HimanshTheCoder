@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/himanshu-ranjan-a7479a1a4/](https://www.linkedin.com/in/himanshu-ranjan-a7479a1a4/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, MongoDB, Express.Js, Next**
+- 💬 Ask me about **HTML, CSS, Javascript, React, MongoDB, Express.Js, Node.Js ,Next.Js**
 
 - 📫 How to reach me **himanshuranjanakamj@gmail.com**
 
